@@ -18,7 +18,7 @@ By using this pattern you can add new algoritms easily with out changing any cod
 ## Output of source codes
 ![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
 
-#In Turkish
+# In Turkish
 ## Örnek
 Strateji tasarım şablonu için en iyi ve en basit örnek sıralama algoritmalarıdır.
 Bu şablon kullanılarak Context class ının içeriğini değiştirmeden sadece ISortStrategy interface ini
