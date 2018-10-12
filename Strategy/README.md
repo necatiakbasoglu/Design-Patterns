@@ -4,7 +4,7 @@
  - Using this pattern you can use strategies interchangeably
  - It is also called Policy Pattern
  
-![Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/tree/master/Strategy/strategy.png)
+![Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/strategy.png)
  
 ## Example
 One good example of that is sorting for strategy pattern suppose 
