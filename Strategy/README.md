@@ -3,25 +3,10 @@
  - Define algoritm family and encapsulate each one
  - Using this pattern you can use strategies interchangeably
  - It is also called Policy Pattern
-
- @startuml
- class Context
- interface Strategy
- class ConcreteStrategyA
- class ConcreteStrategyB
  
- Context *- Strategy
- ConcreteStrategyA ^-- Strategy
- ConcreteStrategyB ^-- Strategy
- @enduml
- 
- 
+[!alt text](https://github.com/necatiakbasoglu/Design-Patterns/tree/master/Strategy)
  
 ## Example
+	One good example of that is sorting for strategy pattern suppose you have an integer array and you want to sort that array.
+I implement two different sort algoritm insertion and bubble sort. By using this pattern you can add new algoritms easily with out changing any code from context.
 
-En basit hali ile **tasarım şablonları** çok yazılım geliştirme sürecinde yazılımcıların karşılaştığı ve yaygın olarak bilinen problemlerin çözümleridir.
-Tasarım şablonları hatılaması kolay olması amacı ile gruplara ayrılmışlardır. Üç adet tasarım şablonu grubu var:
-
- - **Yaratımsal**
- - **Davranışsal**
- - **Yapısal**
