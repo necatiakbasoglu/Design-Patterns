@@ -15,8 +15,8 @@ without changing any code from context.
 
 ![Sort Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/sort.png)
 
-**Context** : It uses strategy interface.
-**ISortStrategy** : Define and action to concrete strategies implement it.
+**Context** : It uses strategy interface
+**ISortStrategy** : Define and action to concrete strategies implement it
 **ConcreteStrategy** : Implements interface actions.  
 
 ## Output of source codes
