@@ -17,7 +17,7 @@ without changing any code from context.
 
 **Context** : It uses strategy interface
 **ISortStrategy** : Define and action to concrete strategies implement it
-**ConcreteStrategy** : Implements interface actions.  
+**ConcreteStrategy** : Implements interface actions
 
 ## Output of source codes
 ![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
