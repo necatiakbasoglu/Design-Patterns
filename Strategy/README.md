@@ -8,8 +8,8 @@
 
 **Context** : It uses strategy interface  
 **ISortStrategy** : Define and action to concrete strategies implement it  
-**ConcreteStrategy** : Implements interface actions    
- 
+**ConcreteStrategy** : Implements interface actions 
+
 ## Example
 One good example of that is sorting for strategy pattern suppose 
 you have an integer array and you want to sort that array.
@@ -19,7 +19,7 @@ without changing any code from context.
 
 ![Sort Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/sort.png)
 
-
+ 
 
 ## Output of source codes
 ![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
