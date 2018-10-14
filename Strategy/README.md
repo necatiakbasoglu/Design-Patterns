@@ -7,7 +7,7 @@
 ![Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/strategy.png)
 
 **Context** : It uses strategy interface  
-**ISortStrategy** : Define and action to concrete strategies implement it  
+**StrategyInterface** : Define and action to concrete strategies implement it  
 **ConcreteStrategy** : Implements interface actions 
 
 ## Example
