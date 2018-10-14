@@ -5,6 +5,10 @@
  - It is also called Policy Pattern
  
 ![Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/strategy.png)
+
+**Context** : It uses strategy interface  
+**ISortStrategy** : Define and action to concrete strategies implement it  
+**ConcreteStrategy** : Implements interface actions    
  
 ## Example
 One good example of that is sorting for strategy pattern suppose 
@@ -15,9 +19,7 @@ without changing any code from context.
 
 ![Sort Strategy Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/sort.png)
 
-**Context** : It uses strategy interface
-**ISortStrategy** : Define and action to concrete strategies implement it
-**ConcreteStrategy** : Implements interface actions.  
+
 
 ## Output of source codes
 ![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
