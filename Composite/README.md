@@ -28,5 +28,5 @@ programlamanın olmazsa olmazlarıdır.
  
 ## Programın Çıktısı
 Size of Dir1 is 60  
-Size of Dir2 is 90 
+Size of Dir2 is 90  
 Size of Root is 210 
