@@ -15,9 +15,6 @@ and you want to learn size of root directory.
 
 ![Composite Pattern uml diagram](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Composite/directory.png)
 
-## Output of source codes
-![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
-
 # In Turkish
 Structual(Yapısal) tasarım şablonu grubuna ait bir şablondur. Bütün ve parça arasındaki ilişkileri
 modellemede kullanılır. Parçalar kendi içlerinde parçalardan oluşabilir buna örnek olarak klasör sistemini
@@ -30,5 +27,6 @@ klasör ve dosya tutabilir. Bu örnekte çok biçimlilik ve recursive kullanıla
 programlamanın olmazsa olmazlarıdır. 
  
 ## Programın Çıktısı
-![Output](https://github.com/necatiakbasoglu/Design-Patterns/blob/master/Strategy/output.png)
- 
+Size of Dir1 is 60
+Size of Dir2 is 90
+Size of Root is 210
